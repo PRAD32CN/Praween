@@ -10,7 +10,12 @@ public class LinkedListExample{
 
 		/*Display Linked List Content*/
          System.out.println("Linked List Content: " +linkedlist);
-		//linkedlist.addFirst("First Item");
+		
+         /*Add First and Last Element*/
+         linkedlist.addFirst("First Item");
+         linkedlist.addLast("Last Item");
+         System.out.println("LinkedList Content after addition: " +linkedlist);
+
 
 	}
 }
