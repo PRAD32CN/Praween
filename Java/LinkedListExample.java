@@ -16,6 +16,15 @@ public class LinkedListExample{
          linkedlist.addLast("Last Item");
          System.out.println("LinkedList Content after addition: " +linkedlist);
 
+         /*This is how to get and set Values*/
+         Object firstvar = linkedlist.get(0);
+         System.out.println("First element: " +firstvar);
+         linkedlist.set(0, "Changed first item");
+         Object firstvar2 = linkedlist.get(0);
+         System.out.println("First element after update by set method: " +firstvar2);
+
+         System.out.println("Linked List Content: " +linkedlist);
+
 
 	}
 }
