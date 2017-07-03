@@ -25,6 +25,12 @@ public class LinkedListExample{
 
          System.out.println("Linked List Content: " +linkedlist);
 
+         /*Remove first and last element*/
+         linkedlist.removeFirst();
+         linkedlist.removeLast();
+         System.out.println("LinkedList after deletion of first and last element: " +linkedlist);
+
+
 
 	}
 }
