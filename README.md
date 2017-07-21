@@ -2,12 +2,15 @@ Praween
 =======
 
 Introduction
+Repos for praticing Java, Python and otehr emerging echnologies.
 
-Learn the basics
+Goals - 
 
-Practice Sessions
+1. Learn the basics
 
-More Practice
+2. Practice 
 
-Call it a day
+3. More Practice
+
+4. Learn New things
 
